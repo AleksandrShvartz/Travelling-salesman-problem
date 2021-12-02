@@ -1,0 +1,21 @@
+﻿  Main.cpp
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.h(38,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\Main.cpp(50,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\Main.cpp(61,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\Main.cpp(68,23): warning C4018: <: несоответствие типов со знаком и без знака
+  RandomGenerator.cpp
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.h(38,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(20,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(57,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(60,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(72,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(87,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(87,41): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(91,18): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(114,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(123,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(125,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.cpp(138,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  TravelingSalesmanProblem.vcxproj -> C:\Users\faizr\source\repos\TravelingSalesmanProblem\Debug\TravelingSalesmanProblem.exe

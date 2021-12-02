@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\RandomGenerator.h(38,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\Main.cpp(50,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\Main.cpp(61,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\faizr\source\repos\TravelingSalesmanProblem\TravelingSalesmanProblem\Main.cpp(68,23): warning C4018: <: несоответствие типов со знаком и без знака
+Release\Tour.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  Создание кода
+  2 of 338 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TravelingSalesmanProblem.vcxproj -> C:\Users\faizr\source\repos\TravelingSalesmanProblem\Release\TravelingSalesmanProblem.exe

@@ -1,4 +1,4 @@
-filename='C:\Users\Vladimir_Shvartc\Downloads\tests3.txt';
+filename='C:\Users\Vladimir_Shvartc\Downloads\tests7.txt';
 fid = fopen(filename);
  count= fscanf(fid, '%*s\n%d\n', 1);
  times=zeros(1,count);
@@ -37,7 +37,7 @@ for i = 1:n
 end
 tic
 [a,route]=AntAlg(n,time,dist,returndist,costs,maxCost);
-times(k)=toc*1e6;
+times(k)=toc;
 error(k)=(maxRaiting-a)/maxRaiting;
 if(error(k)<0)
     disp(a);
@@ -46,14 +46,14 @@ if(error(k)<0)
     disp(arturRoad);
 end
 if(a~=maxRaiting)
-fprintf('raiting is equal to %s but ants go %s\n',num2str(maxRaiting),num2str(a));
+fprintf('Test number %s :raiting is equal to %s but ants go %s\n',num2str(k),num2str(maxRaiting),num2str(a));
 else
  fprintf('Test number %s is ok\n',num2str(k));   
 end
 end
 fclose(fid);
 figure;
-plot(iis,times./1e6);
+plot(iis,times);
 grid on;
 figure;
 plot(iis,error);
